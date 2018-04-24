@@ -1,0 +1,1 @@
+#If your module package is at the root of your repository, this should obviously be at the root as well.
